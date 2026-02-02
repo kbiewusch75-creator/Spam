@@ -1,3 +1,4 @@
+import imghdr
 import time
 import concurrent.futures
 from telegram.ext import Updater, CommandHandler
