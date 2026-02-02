@@ -6,7 +6,7 @@ from instagrapi import Client
 cl = Client()
 
 # Telegram Bot Token yahan dalo
-TOKEN = "7976862323:AAE23Kwy gfeu_y..." # Tera purana token hi rehne dena
+TOKEN = "7976862323:AAE23Kwygfeu_yH-TDhVkwJ5HqyMZVqo5pw" # Tera purana token hi rehne dena
 
 def start(update, context):
     update.message.reply_text("🚩 Ravana Turbo Bot Active!\n/login session_id\n/fire group_name")
