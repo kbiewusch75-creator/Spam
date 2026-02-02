@@ -4,7 +4,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from instagrapi import Client
 
 cl = Client()
-TOKEN = "7976862323:AAE23Kwygfeu_y..." # Apna asli token yahan sahi se dalo
+TOKEN = "7976862323:AAE23Kwygfeu_yH-TDhVkwJ5HqyMZVqo5pw" # Apna asli token yahan sahi se dalo
 
 def start(update, context):
     update.message.reply_text("🚩 Ravana Ultra Active!\nUse: /login [session_id]")
